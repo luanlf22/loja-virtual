@@ -1,0 +1,62 @@
+*{
+   /* cursor: pointer;*/
+    box-sizing: border-box;
+    background-color: rgb(204, 167, 244);
+}
+h1{
+    margin-top: 10px;
+    margin-left: 20%;
+    font-size: 2em;
+    color: #333;
+    
+    }
+.content{
+    
+    
+    margin-bottom: -70px;
+    margin-top: 40px;
+}
+
+nav{
+    
+    margin-top: 10px;
+    display: inline;
+    margin-left: 50px;
+   
+     
+    
+}
+.lin{
+
+    margin: 10px;
+    margin-left: 2%;
+    margin-right: 5%;
+    cursor: pointer;
+}   
+.lin6{
+    background-color: rgb(234, 33, 180);
+    margin: 30px;
+    margin-left: 2%;
+    margin-right: 25%;
+    margin-top: -20px;
+    cursor: pointer;
+    
+}
+button{
+
+    margin-bottom: 30px;
+    margin: 30px;
+    width: 100px;
+    margin-right: 10%;
+    border-radius: 5%;
+    background-color: rgb(234, 33, 180);
+    height: 30px;
+
+}
+
+img{ 
+    margin-left: 50%;
+
+}
+   
+  
