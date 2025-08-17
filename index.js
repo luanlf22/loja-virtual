@@ -11,9 +11,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // Botão SIGN UP
     const signUpBtn = document.querySelector(".lin6");
     signUpBtn.addEventListener("click", () => {
-        alert("Página de cadastro em breve!");
+        alert("C:\Users\User\Downloads\javascript-241360377d05aa910b60f61123942e03c71f550c\javascript-241360377d05aa910b60f61123942e03c71f550c");
     });
-
     // Botão entrar
     const entrarBtn = document.querySelector(".imail input[type='button']");
     entrarBtn.addEventListener("click", () => {
