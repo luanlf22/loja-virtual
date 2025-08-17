@@ -1,8 +1,16 @@
-*{
-   /* cursor: pointer;*/
+
+    
+
+* {
+    
+    cursor: pointer;
     box-sizing: border-box;
-    background-color: rgb(204, 167, 244);
+    background-color: rgb(231, 217, 246);
 }
+title {
+    background-color: seashell;
+}
+
 h1{
     margin-top: 10px;
     margin-left: 20%;
@@ -13,6 +21,7 @@ h1{
 
     p {
 
+    margin-left: 20%;
         margin-left: 200px;
     }
 .content{
@@ -61,8 +70,96 @@ button{
 }
 
 img{ 
-    margin-left: 12%;
+    margin-left: 20%;
 
 }
-   
+.entrar{
+    margin-left: 82px;
+    display: inline;
+   margin-top: 4px;
+   background-color: rgb(234, 33, 180);
+    
+}
+.email1{
+    margin-left: 30px;
+    display: inline-block;
+}
+.senha{
+    margin-left: 0px;
+    display: inline-block;
+    margin-top: 2px;
+}
+  .barra-topo {
+      background-color: black; /* Cor preta */
+      color: white; /* Texto branco */
+      position: fixed; /* Fixa no topo */
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 50px; /* Altura da barra */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000; /* Garante que fique acima de outros elementos */
+    }
+
+    /* Estilo do conteúdo da página */
+    body {
+      margin: 0;
+      padding-top: 50px; /* Evita que o conteúdo fique escondido atrás da barra */
+      font-family: Arial, sans-serif;
+    }
+ 
+ .barra-topo {
+      background-color: black; /* Cor preta */
+      color: white; /* Texto branco */
+      position: fixed; /* Fixa no topo */
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 50px; /* Altura da barra */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000; /* Garante que fique acima de outros elementos */
+    }
+
+    /* Estilo do conteúdo da página */
+    body {
+      margin: 0;
+      padding-top: 50px; /* Evita que o conteúdo fique escondido atrás da barra */
+      font-family: Arial, sans-serif;
+    }
+ .barra-topo {
+      background-color: black; /* Cor preta */
+      color: white; /* Texto branco */
+      position: fixed; /* Fixa no topo */
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 50px; /* Altura da barra */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000; /* Garante que fique acima de outros elementos */
+    }
+ #divBusca{
+    right: 50px;
+  background-color:#2F4F4F;
+  border:solid 1px;
+  border-radius:15px;
+  width:300px;
+}
+
+#txtBusca{
+
+    border-radius: 10px;
+    right:50px;
+    width: 20%;
+  margin-left: 1000px;
+  background-color: rgb(232, 240, 237);
+
   
+}
+
+
