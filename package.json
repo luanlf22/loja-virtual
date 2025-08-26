@@ -1,0 +1,26 @@
+{
+  "name": "loja-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types":"module compiler",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanlf22/loja-virtual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luanlf22/loja-virtual/issues"
+  },
+  "homepage": "https://github.com/luanlf22/loja-virtual#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
